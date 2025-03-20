@@ -1,4 +1,4 @@
-## Oi eu sou a Sarah, estudante de Análise e Desenvolvimento de Sistemas!
+## Oi me chamo Sarah e sou estudante de Análise e Desenvolvimento de Sistemas!
 <li> Atualmente estudando Desenvolvimento Android</li>
 <div style="display: inline_block"><br>
   <a href="https://github.com/imnotsarah">
