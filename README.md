@@ -1,4 +1,4 @@
-## Oi me chamo Sarah e sou estudante de Análise e Desenvolvimento de Sistemas!
+## Olá, seja bem vindo (a) ao meu perfil! Me chamo Sarah, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia!
 <li> Atualmente estudando Desenvolvimento Mobile</li>
 <div style="display: inline_block"><br>
   <a href="https://github.com/imnotsarah">
