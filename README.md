@@ -1,5 +1,5 @@
 ## Oi me chamo Sarah e sou estudante de Análise e Desenvolvimento de Sistemas!
-<li> Atualmente estudando Desenvolvimento Android</li>
+<li> Atualmente estudando Desenvolvimento Mobile</li>
 <div style="display: inline_block"><br>
   <a href="https://github.com/imnotsarah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imnotsarah&show_icons=true&theme=react&include_all_commits-true&count_private-true"/>
